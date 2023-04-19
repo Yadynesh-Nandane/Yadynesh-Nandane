@@ -1,4 +1,13 @@
-### Hi there 👋
+# Yadynesh Nandane 👋
+
+I'm Yadyesh from India,  I am Full Stack Developer
+
+## Skills
+* 💻 HTML, CSS, JS
+* 🌱 I’m currently learning MEAN & MERN Stacks
+
+you can reach me on instagram
+@y.d_edition
 
 <!--
 **Yadynesh-Nandane/Yadynesh-Nandane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
