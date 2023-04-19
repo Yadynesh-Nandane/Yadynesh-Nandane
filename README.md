@@ -3,6 +3,9 @@
 I'm Yadyesh from India,  I am Full Stack Developer
 
 ## Skills
+* ©️ C++
+* 🍵 JAVA
+* 🐍 PYTHON
 * 💻 HTML, CSS, JS
 * 🌱 I’m currently learning MEAN & MERN Stacks
 
