@@ -1,6 +1,6 @@
 # Yadynesh Nandane 👋
 
-I'm Yadyesh from India,  I am Full Stack Developer
+I'm Yadynesh from India,  I am Full Stack Developer.
 
 ## Skills
 * ©️ C++
