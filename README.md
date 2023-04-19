@@ -9,7 +9,7 @@ I'm Yadyesh from India,  I am Full Stack Developer
 * 💻 HTML, CSS, JS
 * 🌱 I’m currently learning MEAN & MERN Stacks
 
-you can reach me on instagram
+You can reach me on instagram
 @y.d_edition
 
 <!--
